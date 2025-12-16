@@ -1,13 +1,13 @@
-title: "My Blogs Name"
+title: "What Drives GDP per Capita? Insights from World Bank Data"
 author: "Default Author Name"
-description: "Some short description of your blog can go here." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
+description: "An exploratory data analysis and modeling study using World Bank development indicators to understand the key factors associated with GDP per capita across countries."
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
-email: "example@mail.com"
-twitter_username: "twitteruser"
-github_username: "githubuser"
-linkedin_username: "linkedinuser"
+email: "gour6380@mail.com"
+#twitter_username: "twitteruser"
+github_username: "gour6380"
+#linkedin_username: "linkedinuser"
 #facebook_username: username
 #flickr_username: username
 #instagram_username: username
